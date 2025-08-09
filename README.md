@@ -1,24 +1,23 @@
-<h1 align="center">Vinicius Lopes</h1>
-<p align="center"><strong>RPA • Automação de Processos • Dados</strong></p>
-<p align="center">Power Automate Desktop & Cloud • SAP GUI Scripting • Python • Javascript • Playwright • VBA • ETL • Docker</p>
+<h1 align="Center">Vinicius Lopes</h1>
+<p align="Center"><strong>RPA • Automação de Processos • Dados</strong></p>
+<p align="Center">Power Automate Desktop & Cloud • SAP GUI Scripting • Python • Javascript • Playwright • VBA • ETL • Docker</p>
 
 ---
 
-## Sobre
+### Sobre
 Bacharel em Engenharia de Produção com pós graduação em Gestão Estratégica de Negócios. Atualmente desenvolvedor de RPA com foco em automações de processos industriais e administrativos.
 
 ---
 
-## Competências
-- **Automação**: Power Automate Desktop & Cloud, SAP GUI Scripting, VBA  
-- **Dados**: Power Query, Power BI, modelagem DAX  
-- **Programação**: Python (automação, APIs, ETL)  
-- **Infraestrutura**: Docker, RabbitMQ, MongoDB  
-- **Integração**: REST, SOAP, SharePoint Online, GitHub Actions  
+### Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,docker,git,postman,powershell,py,selenium,tensorflow)](https://skillicons.dev)
 
----
 
-## Projetos
+### Estou aprendendo
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+
+
+### Projetos
 - **Geração de Documentação para Exportação Automatizada** – DCPOA, CSI, CSN, Declarações MAPA entre outros.
 - **Análise de Crédito Automatizada** – Integração SAP, CISP, SERASA e DEPS para análise de crédito de clientes.
 - **Cadastro de Containeres Automatizada** – Integração via API SOAP com TCP - Terminal de Conteneres Paranaguá para cadastro automatizado de bookings de containeres.
@@ -29,7 +28,7 @@ Bacharel em Engenharia de Produção com pós graduação em Gestão Estratégic
 - Entre outros.
 ---
 
-## Contato
+### Contato
 - GitHub: [viniciuslopes-dev](https://github.com/viniciuslopes-dev)
 - Linkedin: [viniciusolopes](https://www.linkedin.com/in/viniciusolopes/)  
 - Disponível para consultoria pontual e projetos fechados
