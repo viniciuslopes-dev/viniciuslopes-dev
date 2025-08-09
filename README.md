@@ -5,7 +5,7 @@
 ---
 
 ## Sobre
-Bacharel em Engenharia de Produção com pós graduação em Gestão Estratégica de Negócios. Atualmente desenvolvedor de RPA com foco em automações de processos industriais e administrativos, integrações com SAP, APIs e sistemas legados.
+Bacharel em Engenharia de Produção com pós graduação em Gestão Estratégica de Negócios. Atualmente desenvolvedor de RPA com foco em automações de processos industriais e administrativos.
 
 ---
 
