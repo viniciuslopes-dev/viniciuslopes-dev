@@ -18,18 +18,11 @@ Analista de negócios com foco em automação de processos industriais e adminis
 
 ---
 
-## O que entrego
-- Robôs com tratamento de exceções, logs e trilha de auditoria  
-- Integrações robustas com SAP e sistemas legados  
-- Relatórios e dashboards claros para tomada de decisão  
-
----
-
 ## Projetos
 - **Geração de Documentação para Exportação Automatizada** – DCPOA, CSI, CSN, Certificações MAPA entre outros.
 - **Integração com APIs** – TCP - Terminal de Conteneres Paranaguá, SillHalal
 - **Geração de Ordens de Venda/Remessas SAP** – Robotização para processos logisticos e faturamento
-- **Conciliação de Faturas SAP** – extração, validação e publicação automatizada  
+- **Dados para BIs Automatizados** – Extração de dados via SapScripting para bases de dados BI.
 
 ---
 
