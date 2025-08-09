@@ -1,6 +1,6 @@
 <h1 align="center">Vinicius Lopes</h1>
 <p align="center"><strong>RPA • Automação de Processos • Dados</strong></p>
-<p align="center">Power Automate Desktop & Cloud • SAP GUI Scripting • Python • Javascript • • Selenium • Playwright • VBA • ETL • Docker</p>
+<p align="center">Power Automate Desktop & Cloud • SAP GUI Scripting • Python • Javascript • Playwright • VBA • ETL • Docker</p>
 
 ---
 
@@ -21,7 +21,6 @@ Analista de negócios com foco em automação de processos industriais e adminis
 ## O que entrego
 - Robôs com tratamento de exceções, logs e trilha de auditoria  
 - Integrações robustas com SAP e sistemas legados  
-- Pipelines de dados eficientes com atualizações incrementais  
 - Relatórios e dashboards claros para tomada de decisão  
 
 ---
