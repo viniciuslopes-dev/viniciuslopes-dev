@@ -5,7 +5,7 @@
 ---
 
 ## Sobre
-Analista de negócios com foco em automação de processos industriais e administrativos, integrações com SAP e APIs.
+Bacharel em Engenharia de Produção com pós graduação em Gestão Estratégica de Negócios. Atualmente desenvolvedor de RPA com foco em automações de processos industriais e administrativos, integrações com SAP, APIs e sistemas legados.
 
 ---
 
