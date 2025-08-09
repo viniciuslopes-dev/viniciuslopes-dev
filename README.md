@@ -21,10 +21,12 @@ Bacharel em Engenharia de Produção com pós graduação em Gestão Estratégic
 ## Projetos
 - **Geração de Documentação para Exportação Automatizada** – DCPOA, CSI, CSN, Declarações MAPA entre outros.
 - **Análise de Crédito Automatizada** – Integração SAP, CISP, SERASA e DEPS para análise de crédito de clientes.
-- **Integração com APIs** – TCP - Terminal de Conteneres Paranaguá, SillHalal
-- **Geração de Ordens de Venda/Remessas SAP** – Robotização para processos logisticos e faturamento
-- **Dados para BIs Automatizados** – Extração de dados via SapScripting para bases de dados BI.
+- **Cadastro de Containeres Automatizada** – Integração via API SOAP com TCP - Terminal de Conteneres Paranaguá para cadastro automatizado de bookings de containeres.
+- **Geração de Certificados SiilHalal Automatizada** – Integração via API REST para geração de certificados SillHalal
+- **Geração de Ordens de Venda/Remessas SAP** – Robotização para processos logisticos e faturamento no ERP.
+- **Dados para BIs Automatizados** – Extração de dados via SapScripting para bases de dados BI e atualização automatizada dos mesmos.
 - **Monitoramentos de movimentações indevidas automatizada** – Verificação e notificação de movimentações de estoque indevidas no sistema SAP.
+- Entre outros.
 ---
 
 ## Contato
