@@ -10,11 +10,11 @@ Bacharel em Engenharia de Produção com pós graduação em Gestão Estratégic
 ---
 
 ### Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,docker,git,postman,powershell,selenium,tensorflow)]()
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,git,postman,powershell,selenium)]()
 
 
 ### Estou aprendendo
-[![My Skills](https://skillicons.dev/icons?i=postgres)]()
+[![My Skills](https://skillicons.dev/icons?i=postgres,tensorflow,docker)]()
 
 
 ### Projetos
