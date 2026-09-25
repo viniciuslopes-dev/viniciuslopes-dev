@@ -18,7 +18,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusolopes/">LinkedIn</a> ·
-  <a href="#projetos-publicos">Projetos públicos</a> ·
   <a href="#contato">Consultoria e projetos</a>
 </p>
 
