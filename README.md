@@ -23,7 +23,7 @@
 
 ## Sobre mim
 
-Sou desenvolvedor de RPA, bacharel em **Engenharia de Produção** e pós-graduado em **Gestão Estratégica de Negócios**. Combino essa formação com desenvolvimento de software para automatizar processos de logística, exportação, crédito e gestão de dados.
+Sou desenvolvedor de RPA, bacharel em **Engenharia de Produção** e pós-graduado em **Gestão Estratégica de Negócios** e **SAP Integration - BTP**. Combino essa formação com desenvolvimento de software para automatizar processos de logística, exportação, crédito e gestão de dados.
 
 Minha atuação reúne **Power Automate Desktop e Cloud, Python, SAP GUI Scripting e integração com APIs**, com foco em reduzir tarefas manuais, padronizar rotinas e disponibilizar informações para a operação.
 
